@@ -2,6 +2,7 @@
 is example
 
 ## Usage 
+Sample Usage: 
 ~~~
 module "custom_vm_module" {
   source ="git@gitlab.com:faisal2.0/infrastructure-module/custom-vm-module.git"
